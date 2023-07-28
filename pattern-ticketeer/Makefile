@@ -27,7 +27,7 @@ ptw:
 
 # Run the command line application
 run:
-	$(ACTIVATE_VENV); python -m ticket_console
+	$(ACTIVATE_VENV); python -m ticket
 
 # Clean up virtual environment
 clean:

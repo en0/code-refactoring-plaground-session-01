@@ -75,4 +75,4 @@ This command will remove the venv directory.
 
 1. You can add python packages to the requirements.txt.
 2. There is already a suite of unit test.
-3. The `ticket_console` module is only partially complete.
+3. The `ticket` module is only partially complete.
